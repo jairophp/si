@@ -1,0 +1,29 @@
+form{
+    width: 200px;
+    margin:auto;
+}
+
+table{
+    text-align: center;
+    margin: auto;
+
+
+}
+
+td{
+    text-align: center;
+    border: solid #888888;
+
+
+}
+
+tr#divcima{
+    border-bottom: solid #080808;
+
+}
+.result{
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    left: 790px;
+}
